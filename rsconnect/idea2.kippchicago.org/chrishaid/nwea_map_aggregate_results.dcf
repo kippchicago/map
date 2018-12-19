@@ -1,0 +1,13 @@
+name: nwea_map_aggregate_results
+title: NWEA MAP Aggregate Results
+username: chrishaid
+account: chrishaid
+server: idea2.kippchicago.org
+hostUrl: https://idea2.kippchicago.org/__api__
+appId: 2
+bundleId: 63
+url: https://idea2.kippchicago.org/map/
+when: 1544561796.4898
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: map.rda
