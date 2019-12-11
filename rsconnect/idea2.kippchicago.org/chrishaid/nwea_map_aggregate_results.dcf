@@ -5,9 +5,9 @@ account: chrishaid
 server: idea2.kippchicago.org
 hostUrl: https://idea2.kippchicago.org/__api__
 appId: 2
-bundleId: 63
+bundleId: 331
 url: https://idea2.kippchicago.org/map/
-when: 1544561796.4898
+when: 1575649503.42385
 asMultiple: FALSE
 asStatic: FALSE
 ignoredFiles: map.rda
